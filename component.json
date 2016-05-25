@@ -7,7 +7,7 @@
   "keywords": ["function", "bind", "method", "all"],
   "dependencies": {
     "component/bind": "*",
-    "segmentio/bind-all": "*"
+    "segmentio/bind-all": "0.0.2"
   },
   "development": {
     "component/assert": "*"
